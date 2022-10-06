@@ -1,0 +1,172 @@
+2022-10-05 23:42:25,089 [12] INFO SeleniumQuizAshar.BaseClass - Browser Set: Chrome
+2022-10-05 23:51:25,227 [12] INFO SeleniumQuizAshar.BaseClass - Browser Set: Chrome
+2022-10-05 23:56:00,843 [12] INFO SeleniumQuizAshar.BaseClass - Browser Set: Chrome
+2022-10-05 23:56:00,876 [12] INFO SeleniumQuizAshar.BaseClass - ----------------------------------------------WELCOME TO TESTCASE 01--------------------------------------------------
+2022-10-05 23:56:00,956 [12] INFO SeleniumQuizAshar.BaseClass - -----------TestStep 1.01: Browser launched-------------
+2022-10-05 23:56:00,958 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-05 23:56:01,131 [12] INFO SeleniumQuizAshar.BaseClass - URL set
+2022-10-06 00:00:16,381 [12] INFO SeleniumQuizAshar.BaseClass - Browser Set: Chrome
+2022-10-06 00:00:16,406 [12] INFO SeleniumQuizAshar.BaseClass - ----------------------------------------------WELCOME TO TESTCASE 01--------------------------------------------------
+2022-10-06 00:00:16,496 [12] INFO SeleniumQuizAshar.BaseClass - -----------TestStep 1.01: Browser launched-------------
+2022-10-06 00:00:16,498 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:00:16,655 [12] INFO SeleniumQuizAshar.BaseClass - URL set
+2022-10-06 00:00:21,867 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.02: navigation to the URL-------------
+2022-10-06 00:00:21,881 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:00:22,399 [12] INFO SeleniumQuizAshar.BaseClass - HomePage Validated via Title
+2022-10-06 00:00:22,429 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.03: HomePage validation
+2022-10-06 00:00:22,436 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:00:22,880 [12] INFO SeleniumQuizAshar.BaseClass - Window Maximized
+2022-10-06 00:00:23,183 [12] INFO SeleniumQuizAshar.BaseClass - Implicit Wait Called
+2022-10-06 00:00:24,281 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:24,288 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:27,979 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.04: Signup Button Clicked-------------
+2022-10-06 00:00:28,012 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:28,020 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:28,402 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:28,404 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:28,594 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.06: Name and Email Address Entered-------------
+2022-10-06 00:00:29,605 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:29,607 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:32,484 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.07: Sign Up Button Clicked-------------
+2022-10-06 00:00:32,495 [12] INFO SeleniumQuizAshar.BaseClass - Implicit Wait Called
+2022-10-06 00:00:37,510 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:37,518 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:37,627 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:37,633 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:38,305 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:38,528 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:38,778 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:39,001 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.08: Filled Data Successfully------------- 
+2022-10-06 00:00:39,011 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:39,019 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:39,150 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.10: Selected checkbox 'Sign up for our newsletter!'-------------
+2022-10-06 00:00:39,152 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:39,154 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:39,284 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.11: Selected checkbox 'Receive special offers from our partners!'-------------
+2022-10-06 00:00:39,287 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:39,289 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:39,472 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:39,474 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:39,672 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:39,675 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:39,891 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:39,907 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:40,139 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:40,148 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:40,390 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:40,642 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:40,651 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:40,856 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:40,869 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:41,113 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:41,132 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:41,411 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:00:41,420 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:41,646 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.12: Filled Details Successfully: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+2022-10-06 00:00:41,665 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:41,673 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:44,313 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.13: Create Account Button Clicked-------------
+2022-10-06 00:00:44,316 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:45,112 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.14; Verify that 'Account Created' is visible-------------
+2022-10-06 00:00:45,121 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:45,126 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:48,219 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.15: Click on Continue button-------------
+2022-10-06 00:00:48,221 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:49,281 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.16: Logged in as username Visible-------------
+2022-10-06 00:00:49,291 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:00:50,553 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:50,562 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:52,300 [12] INFO SeleniumQuizAshar.BaseClass - Implicit Wait Called
+2022-10-06 00:00:52,320 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:00:52,328 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:00:53,514 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.17: Delete Account Clicked-------------
+2022-10-06 00:00:53,516 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:00:53,940 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1.18: Deletion Validation Function Entered-------------
+2022-10-06 00:00:53,949 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:07,404 [12] INFO SeleniumQuizAshar.BaseClass - Browser Set: Chrome
+2022-10-06 00:03:07,425 [12] INFO SeleniumQuizAshar.BaseClass - ----------------------------------------WELCOME TO TEST CASE 02---------------------------------------------------
+2022-10-06 00:03:07,538 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 1: URL set-------------
+2022-10-06 00:03:07,541 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:07,742 [12] INFO SeleniumQuizAshar.BaseClass - URL set
+2022-10-06 00:03:12,338 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 2: URL loaded successfully-------------
+2022-10-06 00:03:12,348 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:12,870 [12] INFO SeleniumQuizAshar.BaseClass - HomePage Validated via Title
+2022-10-06 00:03:12,897 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 3: Verify that home page is visible successfully-------------
+2022-10-06 00:03:12,905 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:13,400 [12] INFO SeleniumQuizAshar.BaseClass - Window Maximized
+2022-10-06 00:03:13,969 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:03:13,975 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:03:16,454 [12] INFO SeleniumQuizAshar.BaseClass - ------------- Clicked on Login Button-------------
+2022-10-06 00:03:16,460 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:16,979 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:17,405 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:03:17,449 [12] INFO SeleniumQuizAshar.BaseClass - -------------Verification: 'Login to your account' is visible-------------
+2022-10-06 00:03:17,454 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:17,764 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:18,099 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:03:18,106 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:03:18,258 [12] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:03:18,259 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:03:18,410 [12] INFO SeleniumQuizAshar.BaseClass - -------------Email and password Entered-------------
+2022-10-06 00:03:18,412 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:18,839 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:20,211 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:03:20,221 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:03:26,319 [12] INFO SeleniumQuizAshar.BaseClass - -------------Login Credentials Submitted-------------
+2022-10-06 00:03:26,328 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:27,470 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:28,062 [12] INFO SeleniumQuizAshar.BaseClass - Implicit Wait Called
+2022-10-06 00:03:28,077 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:03:29,190 [12] INFO SeleniumQuizAshar.BaseClass - -------------TestStep 8: Verify that 'Logged in as username' is visible-------------
+2022-10-06 00:03:29,192 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:30,441 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:03:30,450 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:03:32,951 [12] INFO SeleniumQuizAshar.BaseClass - Implicit Wait Called
+2022-10-06 00:03:32,973 [12] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:03:32,982 [12] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:03:34,284 [12] INFO SeleniumQuizAshar.BaseClass - -------------Test Step 9. Click 'Delete Account' button-------------
+2022-10-06 00:03:34,287 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:03:34,705 [12] INFO SeleniumQuizAshar.BaseClass - -------------Test Step 10. Deletion Validation Action Tried-------------
+2022-10-06 00:03:34,716 [12] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:10,740 [13] INFO SeleniumQuizAshar.BaseClass - Browser Set: Chrome
+2022-10-06 00:04:10,775 [13] INFO SeleniumQuizAshar.BaseClass - --------------------------------------------------Welcome to TESTCASE 04----------------------------------------------
+2022-10-06 00:04:10,873 [13] INFO SeleniumQuizAshar.BaseClass - URL set
+2022-10-06 00:04:16,153 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:16,686 [13] INFO SeleniumQuizAshar.BaseClass - Test Step 2. URL set
+2022-10-06 00:04:16,697 [13] INFO SeleniumQuizAshar.BaseClass - HomePage Validated via Title
+2022-10-06 00:04:16,723 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:17,180 [13] INFO SeleniumQuizAshar.BaseClass - Test Step 3. Verify homepage visibility
+2022-10-06 00:04:17,185 [13] INFO SeleniumQuizAshar.BaseClass - Window Maximized
+2022-10-06 00:04:17,420 [13] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:04:17,422 [13] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:04:22,671 [13] INFO SeleniumQuizAshar.BaseClass - ------------- Clicked on Login Button-------------
+2022-10-06 00:04:22,686 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:23,113 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:23,544 [13] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:04:23,596 [13] INFO SeleniumQuizAshar.BaseClass - -------------Verification: 'Login to your account' is visible-------------
+2022-10-06 00:04:23,601 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:23,854 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:24,198 [13] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:04:24,203 [13] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:04:24,378 [13] INFO SeleniumQuizAshar.BaseClass - Text Entered
+2022-10-06 00:04:24,379 [13] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:04:24,505 [13] INFO SeleniumQuizAshar.BaseClass - -------------Email and password Entered-------------
+2022-10-06 00:04:24,506 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:24,922 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:26,337 [13] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:04:26,345 [13] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:04:32,463 [13] INFO SeleniumQuizAshar.BaseClass - -------------Login Credentials Submitted-------------
+2022-10-06 00:04:32,476 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:33,438 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:33,935 [13] INFO SeleniumQuizAshar.BaseClass - Implicit Wait Called
+2022-10-06 00:04:33,943 [13] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:04:34,992 [13] INFO SeleniumQuizAshar.BaseClass - Test Step 8. Verify that 'Logged in as username' is visible
+2022-10-06 00:04:34,993 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:35,763 [13] INFO SeleniumQuizAshar.BaseClass - Implicit Wait Called
+2022-10-06 00:04:35,773 [13] INFO SeleniumQuizAshar.BaseClass - Element Clicked
+2022-10-06 00:04:35,780 [13] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:04:40,189 [13] INFO SeleniumQuizAshar.BaseClass - Test Step 9. Logout Action Attempted
+2022-10-06 00:04:40,191 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
+2022-10-06 00:04:40,756 [13] INFO SeleniumQuizAshar.BaseClass - Find Element Called
+2022-10-06 00:04:41,828 [13] INFO SeleniumQuizAshar.BaseClass - Test Step 10. Verify that user is navigated to login page
+2022-10-06 00:04:41,837 [13] INFO SeleniumQuizAshar.BaseClass - Screenshot Taken
